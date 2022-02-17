@@ -1,0 +1,42 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    background-color: #121212;
+}
+.l{
+text-align: center;
+ color: darkblue;
+}
+
+.nav{
+    
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.link{
+    text-decoration: none;
+    list-style: none;
+    list-style-type: none;
+    color: blue;
+}
+li{
+    list-style-type: none;
+    color: blue;
+}
+p{
+    
+    text-align: center;
+    position: relative;
+    color: ghostwhite;
+    top: 100px;
+    
+}
+
+.i{
+    top: 896px;
+    position: absolute;
+    bottom: 0;
+    color: ghostwhite;
+    left: 680px;
+}
